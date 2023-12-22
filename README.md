@@ -43,7 +43,7 @@ The MNIST database (Modified National Institute of Standards and Technology data
 
 (a) Use mini-batch gradient descent to update the parameters including weights and bias. Notice that a complete training round consists of a feed forward process, back propagation and parameter update. Define the batch size = 128 and epoch = 100.
 
-Step 7 Model Evaluation : In this step, you need to:
+## Step 7 Model Evaluation : In this step, you need to:
 
 (a)Use your trained neural network to predict the labels of the test dataset and compute the accuracy on the test dataset.
 
